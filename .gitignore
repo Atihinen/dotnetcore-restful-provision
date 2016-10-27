@@ -1,0 +1,12 @@
+
+#Log files
+/*.log
+
+#Actual application
+/app
+
+#vagrant
+.vagrant
+
+#OSX
+.DS_Store
